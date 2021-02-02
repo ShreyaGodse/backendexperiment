@@ -87,3 +87,5 @@ def stringlen():
         "name": string1,
         "length": len(string1)
     }
+
+    #this is a comment
